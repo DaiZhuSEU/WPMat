@@ -97,4 +97,3 @@ Key parameters (defined in the scripts):
 The prediction output file contains all original columns from the test data plus:
 - `predicted_score`: The predicted binding score (higher values indicate stronger predicted binding)
 
-## License
